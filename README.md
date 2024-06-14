@@ -1,5 +1,5 @@
 ## Hola 🚀
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+de+GitHub!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=%22%22+bienvenido+a+mi+perfil+de+GitHub!&center=true&width=360&height=30">
 </p>
 
 <p>
