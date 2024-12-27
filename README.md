@@ -1,11 +1,8 @@
 ## Hola 🚀
- <img src="https://readme-typing-svg.herokuapp.com/?lines=%22%22+bienvenido+a+mi+perfil!&center=true&width=360&height=30">
-</p>
-
 <p>
-  🤓 Soy <bold>Quide</bold> y siempre estoy aprendiendo cosas nuevas ☕.<br/>
+  🤓 Soy <bold>Quide</bold> de Argentina para el mundo <br/>
   💻 Tengo practica en React con Typescript y proximamente quiero aprender Angular <br/>
-  🎓 Todo lo que se lo aprendi en internet, soy autodidacta
+  ☕ Tambien tengo conocimientos en SQL y Nodejs con Express <br/>
 </p>
 
 <h2>Mis habilidades actuales</h2>
