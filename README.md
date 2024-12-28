@@ -1,6 +1,6 @@
 ## Hola 🚀
 <p>
-  🤓 Soy <bold>Quide</bold> de Argentina para el mundo <br/>
+  🤓 Soy  de Argentina, Buenos Aires 🇦🇷<br/>
   💻 Tengo practica en React con Typescript y proximamente quiero aprender Angular <br/>
   ☕ Tambien tengo conocimientos en SQL y Nodejs con Express <br/>
 </p>
