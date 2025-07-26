@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋 mi nombre es Ezequiel</h1>
 <h3 align="center">Desarrollador web desde Argentina 🇦🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quide1&label=Profile%20views&color=0e75b6&style=flat" alt="quide1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quide1" alt="quide1" /></a> </p>
-
 - 🔭 Actualmente trabajo como desarrollador en la empresa de telecomunicaciones [Telered](https://www.telered.com.ar/)
 
 - 🌱 Estoy aprendiendo **Golang**
